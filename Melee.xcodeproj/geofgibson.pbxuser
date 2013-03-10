@@ -1,0 +1,462 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {862, 473}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 33C51EED10A7970C00581495 /* Melee */;
+		activeTarget = 8D1107260486CEB800E47090 /* Melee */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Melee */,
+		);
+		breakpoints = (
+			33F9B49B10E4558600BFFB55 /* myObjectController.m:18 */,
+		);
+		codeSenseManager = 33C51EFC10A7971800581495 /* Code sense */;
+		executables = (
+			33C51EED10A7970C00581495 /* Melee */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					574,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					825,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					270,
+					628,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					181,
+					133,
+					560,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					801,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315707959;
+			PBXWorkspaceStateSaveDate = 315707959;
+		};
+		perUserProjectItems = {
+			33C1899312D15459008F1FE8 /* PBXTextBookmark */ = 33C1899312D15459008F1FE8 /* PBXTextBookmark */;
+			33C189AD12D190C8008F1FE8 /* PBXTextBookmark */ = 33C189AD12D190C8008F1FE8 /* PBXTextBookmark */;
+			33C189B412D223B2008F1FE8 /* PBXTextBookmark */ = 33C189B412D223B2008F1FE8 /* PBXTextBookmark */;
+			33CB501412CACFFE0087F8B7 /* PBXTextBookmark */ = 33CB501412CACFFE0087F8B7 /* PBXTextBookmark */;
+			33D20D62117BC8CD003E24A1 /* PBXTextBookmark */ = 33D20D62117BC8CD003E24A1 /* PBXTextBookmark */;
+			33D20D63117BC8CD003E24A1 /* PlistBookmark */ = 33D20D63117BC8CD003E24A1 /* PlistBookmark */;
+			33D20D64117BC8CD003E24A1 /* PBXTextBookmark */ = 33D20D64117BC8CD003E24A1 /* PBXTextBookmark */;
+			33D20D65117BC8CD003E24A1 /* PBXTextBookmark */ = 33D20D65117BC8CD003E24A1 /* PBXTextBookmark */;
+			33DAB3E312D0F33C00BE5262 /* PBXTextBookmark */ = 33DAB3E312D0F33C00BE5262 /* PBXTextBookmark */;
+			33DAB3E512D0F33C00BE5262 /* PBXTextBookmark */ = 33DAB3E512D0F33C00BE5262 /* PBXTextBookmark */;
+			33DAB3E612D0F33C00BE5262 /* PBXTextBookmark */ = 33DAB3E612D0F33C00BE5262 /* PBXTextBookmark */;
+			33DAB3E712D0F33C00BE5262 /* PBXTextBookmark */ = 33DAB3E712D0F33C00BE5262 /* PBXTextBookmark */;
+			33DAB3FB12D1465000BE5262 /* PBXTextBookmark */ = 33DAB3FB12D1465000BE5262 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 33C51EFB10A7971800581495 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {862, 473}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 251}";
+			sepNavWindowFrame = "{{19, 59}, {1295, 814}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Melee_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {862, 473}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 141}";
+		};
+	};
+	33112E3B10E91B7B00314DE3 /* MeleeController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 1755}}";
+			sepNavSelRange = "{3896, 0}";
+			sepNavVisRange = "{3062, 1010}";
+			sepNavWindowFrame = "{{19, 59}, {1295, 814}}";
+		};
+	};
+	33112E3C10E91B7B00314DE3 /* MeleeController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 508}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 762}";
+			sepNavWindowFrame = "{{19, 59}, {1295, 814}}";
+		};
+	};
+	33112E3E10E91CEA00314DE3 /* MLArmourModifiers.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 543}}";
+			sepNavSelRange = "{318, 0}";
+			sepNavVisRange = "{0, 371}";
+			sepNavWindowFrame = "{{65, 17}, {1295, 814}}";
+		};
+	};
+	33112E3F10E91CEA00314DE3 /* MLArmourModifiers.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 543}}";
+			sepNavSelRange = "{174, 33}";
+			sepNavVisRange = "{0, 368}";
+			sepNavWindowFrame = "{{19, 59}, {1295, 814}}";
+		};
+	};
+	333AF2A410DEB4370054F244 /* myObjectController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = myObjectController.m;
+		path = "/Users/geofgibson/Documents/Xcode project folders/Melee/myObjectController.m";
+		sourceTree = "<absolute>";
+	};
+	339795C410A8C8D10006C184 /* MLCharacter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 543}}";
+			sepNavSelRange = "{807, 0}";
+			sepNavVisRange = "{0, 814}";
+			sepNavWindowFrame = "{{42, 38}, {1295, 814}}";
+		};
+	};
+	339795C510A8C8D10006C184 /* MLCharacter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 3445}}";
+			sepNavSelRange = "{7649, 0}";
+			sepNavVisRange = "{6616, 1237}";
+			sepNavWindowFrame = "{{19, 59}, {1295, 814}}";
+		};
+	};
+	33C1899312D15459008F1FE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 33112E3C10E91B7B00314DE3 /* MeleeController.h */;
+		name = "MeleeController.h: 10";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 762;
+		vrLoc = 0;
+	};
+	33C189AD12D190C8008F1FE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 33112E3B10E91B7B00314DE3 /* MeleeController.m */;
+		name = "MeleeController.m: 124";
+		rLen = 0;
+		rLoc = 3896;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 3062;
+	};
+	33C189B412D223B2008F1FE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 33112E3B10E91B7B00314DE3 /* MeleeController.m */;
+		name = "MeleeController.m: 124";
+		rLen = 0;
+		rLoc = 3896;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 3062;
+	};
+	33C51EED10A7970C00581495 /* Melee */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Melee;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fs = 1;
+			$gs = 1;
+			$ss = 1;
+		};
+	};
+	33C51EFB10A7971800581495 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	33C51EFC10A7971800581495 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	33CB4FE012C985A70087F8B7 /* MLWeaponSpecs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 543}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{0, 359}";
+		};
+	};
+	33CB4FE112C985A70087F8B7 /* MLWeaponSpecs.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1054, 360}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 341}";
+			sepNavWindowFrame = "{{19, 59}, {1295, 814}}";
+		};
+	};
+	33CB501412CACFFE0087F8B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 33CB4FE112C985A70087F8B7 /* MLWeaponSpecs.m */;
+		name = "MLWeaponSpecs.m: 11";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 0;
+	};
+	33D20D62117BC8CD003E24A1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	33D20D63117BC8CD003E24A1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/geofgibson/Documents/Xcode project folders/Melee/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	33D20D64117BC8CD003E24A1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	33D20D65117BC8CD003E24A1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Melee_Prefix.pch */;
+		name = "Melee_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 141;
+		vrLoc = 0;
+	};
+	33DAB3E312D0F33C00BE5262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 339795C410A8C8D10006C184 /* MLCharacter.h */;
+		name = "MLCharacter.h: 25";
+		rLen = 0;
+		rLoc = 807;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	33DAB3E512D0F33C00BE5262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 33CB4FE012C985A70087F8B7 /* MLWeaponSpecs.h */;
+		name = "MLWeaponSpecs.h: 19";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	33DAB3E612D0F33C00BE5262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 33112E3E10E91CEA00314DE3 /* MLArmourModifiers.h */;
+		name = "MLArmourModifiers.h: 16";
+		rLen = 0;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	33DAB3E712D0F33C00BE5262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 33112E3F10E91CEA00314DE3 /* MLArmourModifiers.m */;
+		name = "MLArmourModifiers.m: 11";
+		rLen = 33;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	33DAB3FB12D1465000BE5262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 339795C510A8C8D10006C184 /* MLCharacter.m */;
+		name = "MLCharacter.m: 249";
+		rLen = 0;
+		rLoc = 7649;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 6616;
+	};
+	33F9B49B10E4558600BFFB55 /* myObjectController.m:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 333AF2A410DEB4370054F244 /* myObjectController.m */;
+		functionName = "-create:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		modificationTime = 315724017.880569;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	8D1107260486CEB800E47090 /* Melee */ = {
+		activeExec = 0;
+		executables = (
+			33C51EED10A7970C00581495 /* Melee */,
+		);
+	};
+}

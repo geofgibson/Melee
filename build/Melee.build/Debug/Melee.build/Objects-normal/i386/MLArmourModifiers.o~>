@@ -1,0 +1,5 @@
+/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m:13: error: no declaration of property 'name' found in the interface
+/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m: In function '-[MLArmourModifiers init]':
+/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m:20: error: 'name' undeclared (first use in this function)
+/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m:20: error: (Each undeclared identifier is reported only once
+/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m:20: error: for each function it appears in.)

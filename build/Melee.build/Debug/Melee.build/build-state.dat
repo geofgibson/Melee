@@ -1,0 +1,300 @@
+TMelee
+v7
+r0
+t315724017.603396
+cCheck dependencies
+cProcessInfoPlistFile "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch.gch Melee_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/main.o "/Users/geofgibson/Documents/Xcode project folders/Melee/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLCharacter.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MeleeController.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLArmourModifiers.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLWeaponSpecs.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/MacOS/Melee" normal i386
+cTouch "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/InfoPlist.strings
+c000000004AF75F8B000000000000005C
+t1257725835
+s92
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib
+c000000004D20B7BD000000000003F36E
+t1293989821
+s258926
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.h
+c000000004D20BBBA0000000000000173
+t1293990842
+s371
+i<Cocoa/Cocoa.h>
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m
+c000000004B6E23FF0000000000000170
+t1265509375
+s368
+i"MLArmourModifiers.h"
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.h
+c000000004D20BB5E000000000000032E
+t1293990750
+s814
+i<Cocoa/Cocoa.h>
+i"MLArmourModifiers.h"
+i"MLWeaponSpecs.h"
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.m
+c000000004D20F65D0000000000001EAD
+t1294005853
+s7853
+i"MLCharacter.h"
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.h
+c000000004D20BBBA0000000000000167
+t1293990842
+s359
+i<Cocoa/Cocoa.h>
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.m
+c000000004D1A949D0000000000000155
+t1293587613
+s341
+i"MLWeaponSpecs.h"
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.h
+c000000004D21133E00000000000002FA
+t1294013246
+s762
+i<Cocoa/Cocoa.h>
+i<stdlib.h>
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.m
+c000000004D2159460000000000000FE8
+t1294031174
+s4072
+i"MLCharacter.h"
+i"MeleeController.h"
+i"MLArmourModifiers.h"
+i"MLWeaponSpecs.h"
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/Melee_Prefix.pch
+c000000004AF75F8B000000000000008D
+t1257725835
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app
+t1294031175
+s102
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Info.plist
+t1293410480
+s770
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/MacOS/Melee
+t1294031175
+s39192
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/PkgInfo
+t1293410480
+s8
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293410480
+s92
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293989824
+s49166
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLArmourModifiers.o
+t1293990843
+s10272
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLCharacter.o
+t1294005853
+s35808
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLWeaponSpecs.o
+t1293990843
+s10216
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/Melee.LinkFileList
+c000000004D194F8B000000000000027B
+t1293504395
+s635
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MeleeController.o
+t1294031175
+s27080
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/main.o
+t1293410485
+s4892
+
+N/Users/geofgibson/Documents/Xcode project folders/Melee/main.m
+c000000004AF75F8B00000000000000FB
+t1257725835
+s251
+i<Cocoa/Cocoa.h>
+
+N/var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch.gch
+t1293410485
+s54075824
+
+NInfo.plist
+c000000004BCB9146000000000000035E
+t1271632198
+s862
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315724017#315724017#0(0"0(0#1#0"8637332128#0"0#
+
+CCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLArmourModifiers.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315683642.771550
+e315683643.004342
+r1
+xCompileC
+xbuild/Melee.build/Debug/Melee.build/Objects-normal/i386/MLArmourModifiers.o
+x/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m315683642#315683643#0(0"0(0#0#75"/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m8651108288#1647"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-generated-files.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-own-target-headers.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-all-target-headers.hmap" -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-project-headers.hmap" "-F/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/include" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources/i386" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources" -include /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch -c "/Users/geofgibson/Documents/Xcode project folders/Melee/MLArmourModifiers.m" -o "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLArmourModifiers.o"0#
+
+CCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLCharacter.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315698653.128574
+e315698653.394886
+r1
+xCompileC
+xbuild/Melee.build/Debug/Melee.build/Objects-normal/i386/MLCharacter.o
+x/Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.m315698653#315698653#0(0"0(0#0#69"/Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.m8651314496#1635"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-generated-files.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-own-target-headers.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-all-target-headers.hmap" -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-project-headers.hmap" "-F/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/include" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources/i386" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources" -include /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch -c "/Users/geofgibson/Documents/Xcode project folders/Melee/MLCharacter.m" -o "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLCharacter.o"0#
+
+CCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLWeaponSpecs.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315683642.776088
+e315683643.004069
+r1
+xCompileC
+xbuild/Melee.build/Debug/Melee.build/Objects-normal/i386/MLWeaponSpecs.o
+x/Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.m315683642#315683643#0(0"0(0#0#71"/Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.m8651951616#1639"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-generated-files.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-own-target-headers.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-all-target-headers.hmap" -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-project-headers.hmap" "-F/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/include" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources/i386" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources" -include /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch -c "/Users/geofgibson/Documents/Xcode project folders/Melee/MLWeaponSpecs.m" -o "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MLWeaponSpecs.o"0#
+
+CCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/MeleeController.o "/Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315723974.594244
+e315723975.119700
+r1
+xCompileC
+xbuild/Melee.build/Debug/Melee.build/Objects-normal/i386/MeleeController.o
+x/Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.m315723974#315723975#0(0"0(0#0#73"/Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.m8626420512#1643"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-generated-files.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-own-target-headers.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-all-target-headers.hmap" -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-project-headers.hmap" "-F/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/include" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources/i386" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources" -include /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch -c "/Users/geofgibson/Documents/Xcode project folders/Melee/MeleeController.m" -o "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/MeleeController.o"0#
+
+CCompileC build/Melee.build/Debug/Melee.build/Objects-normal/i386/main.o "/Users/geofgibson/Documents/Xcode project folders/Melee/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103285.261144
+e315103285.572564
+r1
+xCompileC
+xbuild/Melee.build/Debug/Melee.build/Objects-normal/i386/main.o
+x/Users/geofgibson/Documents/Xcode project folders/Melee/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/geofgibson/Documents/Xcode project folders/Melee/main.m315103285#315103285#0(0"0(0#0#62"/Users/geofgibson/Documents/Xcode project folders/Melee/main.m8617466464#1621"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-generated-files.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-own-target-headers.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-all-target-headers.hmap" -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-project-headers.hmap" "-F/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/include" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources/i386" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources" -include /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch -c "/Users/geofgibson/Documents/Xcode project folders/Melee/main.m" -o "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib"
+s315682623.948014
+e315682624.406264
+r1
+xCompileXIB
+x/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib:735: note: This view is clipping its content.
+o/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib:454: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315682623#315682624#0(298"/* com.apple.ibtool.document.notices *//Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib:735: note: This view is clipping its content./Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib:454: note: This view is clipping its content.2(13@34"This view is clipping its content.315682624#18446744073709551615#0#0(6@82"/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib315682621#735#0#735#0#0"0(13@34"This view is clipping its content.315682624#18446744073709551615#0#0(6@82"/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib315682621#454#0#454#0#0"0(0#0#82"/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib8634160192#419"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s315103280.624065
+e315103280.881173
+r1
+xCopyStringsFile
+x/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315103280#315103280#0(0"0(0#0#87"/Users/geofgibson/Documents/Xcode project folders/Melee/English.lproj/InfoPlist.strings8618572864#402"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/MacOS/Melee" normal i386
+s315723975.119807
+e315723975.151182
+r1
+xLd
+x/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/MacOS/Melee
+xnormal
+xi386
+lSLF07#2@103"Link /Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/MacOS/Melee315723975#315723975#0(0"0(0#0#0"8638731904#623"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" "-F/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" -filelist "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Objects-normal/i386/Melee.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -o "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/MacOS/Melee"0#
+
+CProcessInfoPlistFile "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Info.plist" Info.plist
+s315103280.592018
+e315103280.623968
+r1
+xProcessInfoPlistFile
+x/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist315103280#315103280#0(0"0(0#0#66"/Users/geofgibson/Documents/Xcode project folders/Melee/Info.plist8318822943697102848#355"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch.gch Melee_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103281.134567
+e315103285.260747
+r1
+xProcessPCH
+x/var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch.gch
+xMelee_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Melee_Prefix.pch315103281#315103285#0(0"0(0#0#72"/Users/geofgibson/Documents/Xcode project folders/Melee/Melee_Prefix.pch8618722400#1512"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-generated-files.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-own-target-headers.hmap" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-all-target-headers.hmap" -iquote "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/Melee-project-headers.hmap" "-F/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/include" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources/i386" "-I/Users/geofgibson/Documents/Xcode project folders/Melee/build/Melee.build/Debug/Melee.build/DerivedSources" -c "/Users/geofgibson/Documents/Xcode project folders/Melee/Melee_Prefix.pch" -o /var/folders/E6/E6PVfi4r2RW2gE+8ZM1ZW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Melee_Prefix-dxbykwpytjqjcnfwfecyroemzsvt/Melee_Prefix.pch.gch0#
+
+CTouch "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app"
+s315723975.151340
+e315723975.154222
+r1
+xTouch
+x/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app
+lSLF07#2@83"Touch /Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app315723975#315723975#0(0"0(0#0#0"8638568320#167"    cd "/Users/geofgibson/Documents/Xcode project folders/Melee"    /usr/bin/touch -c "/Users/geofgibson/Documents/Xcode project folders/Melee/build/Debug/Melee.app"0#
+
