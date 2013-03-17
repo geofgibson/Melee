@@ -12,6 +12,7 @@
 @interface MeleeController : NSObject {
 	MLCharacter * character;
 	IBOutlet NSWindow * meleeWindow;
+    IBOutlet NSView * mainView;
 	bool stFixed, dxFixed;
 
 }
@@ -22,6 +23,7 @@
 - (void)createCharacter:(NSButton *)sender;
 - (IBAction)toggleStFixed:(id)sender;
 - (IBAction)toggleDxFixed:(id)sender;
+- (IBAction)print:(id)sender;
 - (void)selectArmour:(id)sender;
 - (void)selectWeapon1:(id)sender;
 - (void)selectWeapon2:(id)sender;

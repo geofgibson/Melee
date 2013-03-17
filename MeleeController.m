@@ -28,6 +28,17 @@
 	return self;
 }
 
+- (IBAction)print:(id)sender {
+    NSLog(@"initiating custom print");
+    NSPrintOperation *op;
+    op = [NSPrintOperation printOperationWithView:mainView];
+    if (op)
+        [op runOperation];
+    else
+        // handle error here
+        NSLog(@"Print crashed");
+        }
+
 - (IBAction)toggleStFixed:(id)sender {
 	if (stFixed) {
 		stFixed = false;
