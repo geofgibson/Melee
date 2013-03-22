@@ -10,6 +10,7 @@
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
 		33112E3D10E91B7B00314DE3 /* MeleeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33112E3B10E91B7B00314DE3 /* MeleeController.m */; };
 		33112E4010E91CEA00314DE3 /* MLArmourModifiers.m in Sources */ = {isa = PBXBuildFile; fileRef = 33112E3F10E91CEA00314DE3 /* MLArmourModifiers.m */; };
+		335658F716F9FD190061BAC5 /* icon.iconset in Resources */ = {isa = PBXBuildFile; fileRef = 335658F616F9FD190061BAC5 /* icon.iconset */; };
 		339795C610A8C8D10006C184 /* MLCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = 339795C510A8C8D10006C184 /* MLCharacter.m */; };
 		33CB4FE212C985A70087F8B7 /* MLWeaponSpecs.m in Sources */ = {isa = PBXBuildFile; fileRef = 33CB4FE112C985A70087F8B7 /* MLWeaponSpecs.m */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
@@ -30,6 +31,7 @@
 		33112E3C10E91B7B00314DE3 /* MeleeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeleeController.h; sourceTree = "<group>"; };
 		33112E3E10E91CEA00314DE3 /* MLArmourModifiers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLArmourModifiers.h; sourceTree = "<group>"; };
 		33112E3F10E91CEA00314DE3 /* MLArmourModifiers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLArmourModifiers.m; sourceTree = "<group>"; };
+		335658F616F9FD190061BAC5 /* icon.iconset */ = {isa = PBXFileReference; lastKnownFileType = folder.iconset; path = icon.iconset; sourceTree = "<group>"; };
 		339795C410A8C8D10006C184 /* MLCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCharacter.h; sourceTree = "<group>"; };
 		339795C510A8C8D10006C184 /* MLCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCharacter.m; sourceTree = "<group>"; };
 		33CB4FE012C985A70087F8B7 /* MLWeaponSpecs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLWeaponSpecs.h; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				335658F616F9FD190061BAC5 /* icon.iconset */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
@@ -186,6 +189,7 @@
 			files = (
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				335658F716F9FD190061BAC5 /* icon.iconset in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

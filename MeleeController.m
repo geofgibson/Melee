@@ -29,9 +29,10 @@
 }
 
 - (IBAction)print:(id)sender {
-    NSLog(@"initiating custom print");
     NSPrintOperation *op;
     op = [NSPrintOperation printOperationWithView:mainView];
+    NSPrintInfo *pInfo = [op printInfo];
+    [pInfo setHorizontalPagination:NSFitPagination];
     if (op)
         [op runOperation];
     else
