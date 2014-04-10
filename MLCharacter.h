@@ -14,16 +14,16 @@
 
 @interface MLCharacter : NSObject {
 	int	strength, dexterity, movementAllowance, experiencePoints, adjustedDX;
-	NSArray	* weapons, * armour, * daggers;
-	MLArmourModifiers * currentArmour;
-	MLWeaponSpecs * weaponOne, * weaponTwo, * currentDagger;
-    NSMutableString * possessions;
+	NSArray	* __weak weapons, * __weak armour, * __weak daggers;
+	MLArmourModifiers * __weak currentArmour;
+	MLWeaponSpecs * __weak weaponOne, * __weak weaponTwo, * __weak currentDagger;
+    NSMutableString * __weak possessions;
 }
 
 @property(readwrite) int strength, dexterity, movementAllowance, experiencePoints, adjustedDX;
-@property(readwrite, assign) NSArray * weapons, * armour, * daggers;
-@property(readwrite, assign) MLArmourModifiers * currentArmour;
-@property(readwrite, assign) MLWeaponSpecs * weaponOne, * weaponTwo, * currentDagger;
-@property(readwrite, assign) NSMutableString * possessions;
+@property(readwrite, weak) NSArray * weapons, * armour, * daggers;
+@property(readwrite, weak) MLArmourModifiers * currentArmour;
+@property(readwrite, weak) MLWeaponSpecs * weaponOne, * weaponTwo, * currentDagger;
+@property(readwrite, weak) NSMutableString * possessions;
 
 @end

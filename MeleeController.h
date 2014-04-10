@@ -17,7 +17,7 @@
 
 }
 
-@property(readwrite, assign) MLCharacter * character;
+@property(readwrite) MLCharacter * character;
 @property(readwrite) bool stFixed, dxFixed;
 
 - (void)createCharacter:(NSButton *)sender;

@@ -15,6 +15,6 @@
 }
 
 @property(readwrite) int stMinimum, dxAdj;
-@property(readwrite, retain) NSString * name, * dice;
+@property(readwrite, strong) NSString * name, * dice;
 
 @end

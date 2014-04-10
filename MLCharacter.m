@@ -45,10 +45,6 @@
 	
 	self.armour = [NSArray arrayWithObjects:none, leather, chainmail, plate, nil];
 	self.currentArmour = none;
-	[none release];
-	[leather release];
-	[chainmail release];
-	[plate release];
 	
 	//set up weapon data
 	MLWeaponSpecs * noWeapon = [[MLWeaponSpecs alloc] init];
@@ -181,30 +177,6 @@
 	self.weaponOne = noWeapon;
 	self.weaponTwo = noWeapon;
 	
-	[rapier release];
-	[club release];
-	[hammer release];
-	[cutlass release];
-	[shortSword release];
-	[mace release];
-	[smallAxe release];
-	[broadsword release];
-	[mornigstar release];
-	[twoHandedSword release];
-	[battleAxe release];
-	[javelin release];
-	[spear release];
-	[halberd release];
-	[pikeAxe release];
-	[thrownRock release];
-	[sling release];
-	[smallBow release];
-	[horseBow release];
-	[longBow release];
-	[lightCrossbow release];
-	[heavyCrossbow release];
-	[smallShield release];
-	[largeShield release];
 	
 	//initialize daggers
 	MLWeaponSpecs * dagger = [[MLWeaponSpecs alloc] init];
@@ -221,9 +193,6 @@
 	self.daggers = [NSArray arrayWithObjects:noWeapon, dagger, mainGauche, nil];
 	self.currentDagger = noWeapon;
 	
-	[noWeapon release];
-	[dagger release];
-	[mainGauche release];
 	}
 	return self;
 }

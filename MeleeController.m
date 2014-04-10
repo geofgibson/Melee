@@ -78,7 +78,7 @@
 	}
 	else {
 		//display sheet not enough strength
-		NSAlert *alert = [[[NSAlert alloc] init] autorelease];
+		NSAlert *alert = [[NSAlert alloc] init];
         [alert addButtonWithTitle:@"OK"];
         [alert setMessageText:@"Not so fast ..."];
 		NSString * textString = [NSString stringWithFormat:@"You cannot use a %@ without a strength of at least %d.", selectedWeapon.name, selectedWeapon.stMinimum];
@@ -102,7 +102,7 @@
 	}
 	else {
 		//display sheet not enough strength
-		NSAlert *alert = [[[NSAlert alloc] init] autorelease];
+		NSAlert *alert = [[NSAlert alloc] init];
         [alert addButtonWithTitle:@"OK"];
         [alert setMessageText:@"Not so fast ..."];
 		NSString * textString = [NSString stringWithFormat:@"You cannot use a %@ without a strength of at least %d.", selectedWeapon.name, selectedWeapon.stMinimum];
@@ -210,9 +210,5 @@
     //[self setNeedsDisplay:YES];
 }
 
-- (void)dealloc {
-	[character release];
-	[super dealloc];
-}
 
 @end

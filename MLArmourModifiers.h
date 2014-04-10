@@ -14,6 +14,6 @@
 }
 
 @property(readwrite) int hits, armourMovement, dxAdj;
-@property(readwrite, retain) NSString * name;
+@property(readwrite, strong) NSString * name;
 
 @end
